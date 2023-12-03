@@ -1,0 +1,47 @@
+.abc{
+	display:flex;
+	justify-content:space-evenly;
+	background-color:black;
+	color:white;
+}
+.xyz{
+	display:flex;
+	justify-content:space-between;
+background-color:AntiqueWhite;}
+.def{
+	display:flex;
+	justify-content:flex-end;}
+.def a{
+margin:40px;}
+.a123{
+display:flex;
+
+}
+
+.b123{
+display:flex;}
+.b123 div{
+	border:3px solid black;
+	margin:20px;
+border-radius:20px;}
+.c123 img{
+	height:315px;
+width:315px;}
+.d123{
+display:flex;}
+.d123 img{
+	border:3px solid black;
+border-radius:20px;
+margin:20px;}
+.e123{
+display:flex;}
+.f123{
+	display:flex;
+justify-content:space-between;}
+.g123{
+	display:flex;
+justify-content:space-between;
+}
+.g123 img{
+border:3px solid black;
+}
